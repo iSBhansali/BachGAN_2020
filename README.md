@@ -1,6 +1,6 @@
 # BachGAN_2020
 Orignaly proposed as BachGAN: High-Resolution Image Synthesis from Salient Object Layout by Yandong Li, Yu Cheng, Zhe Gan, Licheng Yu, Liqiang Wang, and Jingjing Liu In CVPR 2020.
-We worked on this as a Turm Project while attending Machine Learning Course at BITS Pilani.
+We worked on this as a Turm Project while attending BITS-F464 Machine Learning Course at BITS Pilani.
 ## 1. Liturature Review 
 Youtube Link for our Liturature Review presentation
 https://youtu.be/6NnPPC7ZoC8
