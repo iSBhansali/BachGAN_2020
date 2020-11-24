@@ -13,6 +13,16 @@ Our Results
 
 ![result](https://user-images.githubusercontent.com/51713877/100012379-325d1600-2df9-11eb-8299-c91449620141.PNG)
 
+### Requirements
+torch>=1.0.0
+torchvision
+dominate>=2.3.1
+dill
+scikit-image
+
+### Datastes
+1. ADE20K 
+2. Cityscapes
 ## 3.Proposals from innovations
 1. Improving the resolution further:- Can be done using SRCNNs. this will incerese the resalution of the image to 512x512.
 
