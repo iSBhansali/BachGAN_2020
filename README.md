@@ -34,3 +34,11 @@ our results for increseing the resulation
 3.Using alternate loss function.
 4.Generating animated characters.
 5.Incorporating text to object layout converter in the existing model.
+
+
+@inproceedings{li2020BachGAN,
+  title={BachGAN: High-Resolution Image Synthesis from Salient Object Layout},
+  author={Li, Yandong and Cheng, Yu and Gan, Zhe and Yu, Licheng and Wang, Liqiang and Liu, Jingjing},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
